@@ -33,7 +33,7 @@
   "homepage": "https://github.com/nodefluent/schema-registry#readme",
   "dependencies": {
     "ajv": "^5.0.1",
-    "avsc": "^5.0.1",
+    "avsc": "^5.0.4",
     "bluebird": "^3.5.0",
     "body-parser": "^1.17.1",
     "commander": "^2.9.0",
